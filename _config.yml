@@ -1,0 +1,31 @@
+title: Quartierverein Oberdorf Zufikon
+description: Familien und Einzelpersonen die geselliges Beisammensein schätzen, Freundschaften pflegen.
+
+url: http://www.qv-zufikon.ch
+baseurl: ""
+# paginate_path: "blog/page:num/"
+# permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Verein
+   url: /start
+ - title: Programm
+   url: /programm-2
+ - title: Berichte
+   url: /index.html
+ - title: Kontakt
+   url: /kontakt
+
+social:
+   github: brianmaierjr
+   twitter: brianmaierjr
+   facebook: brianmaierjr
+   email: brimaidesigns@gmail.com
+
+google_analytics: "UA-58263416-1"
