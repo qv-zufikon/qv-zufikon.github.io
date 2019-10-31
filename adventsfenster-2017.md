@@ -37,7 +37,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -47,7 +47,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -57,7 +57,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -67,7 +67,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -78,7 +78,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -89,7 +89,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -99,7 +99,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -109,7 +109,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -119,12 +119,12 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -135,7 +135,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -145,7 +145,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -155,7 +155,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -165,12 +165,12 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;A
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -181,7 +181,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -191,7 +191,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -201,7 +201,7 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -211,469 +211,469 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Mo
     </td>
-    
+
     <td>
       4
     </td>
-    
+
     <td>
       Felder, Doris und Alois
     </td>
-    
+
     <td>
       Schulstrasse 16
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Di
     </td>
-    
+
     <td>
       5
     </td>
-    
+
     <td>
       Giacomelli, Röbi u Ruth
     </td>
-    
+
     <td>
       Unterdorfstrasse 5
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Mi
     </td>
-    
+
     <td>
       6
     </td>
-    
+
     <td>
       Wiederkehr, Lisa
     </td>
-    
+
     <td>
       Bachstrasse 2
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Do
     </td>
-    
+
     <td>
       7
     </td>
-    
+
     <td>
       de Wit, Adinda
     </td>
-    
+
     <td>
       Aettigüpfstrasse 20
     </td>
-    
+
     <td>
       C
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Fr
     </td>
-    
+
     <td>
       8
     </td>
-    
+
     <td>
       Coco/Shaw, Daniel
     </td>
-    
+
     <td>
       Schulstrasse 9
     </td>
-    
+
     <td>
       C
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Sa
     </td>
-    
+
     <td>
       9
     </td>
-    
+
     <td>
       Kälin, Dorothea u. Josef
     </td>
-    
+
     <td>
       Bachstrasse 5
     </td>
-    
+
     <td>
       C
     </td>
   </tr>
-  
+
   <tr>
     <td>
       So
     </td>
-    
+
     <td>
       10
     </td>
-    
+
     <td>
       Iten, Jasmin
     </td>
-    
+
     <td>
       Schlossbergstr. 1
     </td>
-    
+
     <td>
       C
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Mo
     </td>
-    
+
     <td>
       11
     </td>
-    
+
     <td>
       Righetti, Doris u. Stefano
     </td>
-    
+
     <td>
       Schlossbergstr. 23
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Di
     </td>
-    
+
     <td>
       12
     </td>
-    
+
     <td>
       Steimen/Kunz, Nada u. Thomas
     </td>
-    
+
     <td>
       Rossweidstr. 19
     </td>
-    
+
     <td>
       S
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Mi
     </td>
-    
+
     <td>
       13
     </td>
-    
+
     <td>
       Käppeli, Monika u. Marius
     </td>
-    
+
     <td>
       Spilweg 10
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Do
     </td>
-    
+
     <td>
       14
     </td>
-    
+
     <td>
       Furrer, Esther u. Daniel
     </td>
-    
+
     <td>
       Maihölzlistr. 34
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Fr
     </td>
-    
+
     <td>
       15
     </td>
-    
+
     <td>
       Ryser, Sonja
     </td>
-    
+
     <td>
       Bachstrasse 23
     </td>
-    
+
     <td>
       A
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Sa
     </td>
-    
+
     <td>
       16
     </td>
-    
+
     <td>
       Amsler Familie
     </td>
-    
+
     <td>
       Bachstrasse 1a
     </td>
-    
+
     <td>
       A
     </td>
   </tr>
-  
+
   <tr>
     <td>
       So
     </td>
-    
+
     <td>
       17
     </td>
-    
+
     <td>
       Reynard Familie
     </td>
-    
+
     <td>
       Schlossmatt 3
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Mo
     </td>
-    
+
     <td>
       18
     </td>
-    
+
     <td>
       Cimma Familie
     </td>
-    
+
     <td>
       Algierstrasse 2
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Di
     </td>
-    
+
     <td>
       19
     </td>
-    
+
     <td>
       Hufschmid Familie
     </td>
-    
+
     <td>
       Schürmattstr. 6
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Mi
     </td>
-    
+
     <td>
       20
     </td>
-    
+
     <td>
       Hauser, Heidi und Theo
     </td>
-    
+
     <td>
       Oberdorfstrasse 7
     </td>
-    
+
     <td>
       S
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Do
     </td>
-    
+
     <td>
       21
     </td>
-    
+
     <td>
       Rocchinotti, Bea und Renato
     </td>
-    
+
     <td>
       Chräenbachstr. 1
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Fr
     </td>
-    
+
     <td>
       22
     </td>
-    
+
     <td>
       Alder, René
     </td>
-    
+
     <td>
       Rossägertenweg 19
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Sa
     </td>
-    
+
     <td>
       23
     </td>
-    
+
     <td>
       STWEG Verena, Hunziker
     </td>
-    
+
     <td>
       Im Winkel 8
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       So
     </td>
-    
+
     <td>
       24
     </td>
-    
+
     <td>
       Felix/Weibel, Elsbeth u. Roger
     </td>
-    
+
     <td>
       Breitenstrasse 2a
     </td>
-    
+
     <td>
       &nbsp;
     </td>
@@ -685,9 +685,9 @@ Quartierverein Oberdorf Werner Gerber (Präs.)
     <p>
       C: Christchindli Markt Bremgarten, A: Apéro, S: Suppe
     </p>
-    
+
     <p>
-      [ngg_images source="galleries" container_ids="11" display_type="photocrati-nextgen_basic_thumbnails" override_thumbnail_settings="0" thumbnail_width="120" thumbnail_height="90" thumbnail_crop="1" images_per_page="20" number_of_columns="0" ajax_pagination="1" show_all_in_lightbox="0" use_imagebrowser_effect="0" show_slideshow_link="0" slideshow_link_text="[Show slideshow]" order_by="sortorder" order_direction="ASC" returns="included" maximum_entity_count="500"]
+      {% google_photos https://photos.app.goo.gl/gvmMwqHZnyES8ni48 800 %}
     </p>
   </div>
 </div>

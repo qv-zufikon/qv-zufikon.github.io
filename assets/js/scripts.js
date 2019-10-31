@@ -16,3 +16,4 @@ $( document ).ready(function() {
 });
 
 
+showSlides = (index) => location.href = googlePhotos.urls[index];

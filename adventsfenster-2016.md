@@ -11,7 +11,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
     <p>
       <span style="color: #ff0000;">UPDATE</span>:&nbsp;<a href="http://www.qv-zufikon.ch/adventsfenster-und-neujahrsapero/">Besichtigung der Adventsfenster und Neujahrsapéro</a>
     </p>
-    
+
     <p>
       <strong>Liebe Zufikerinnen und Zufiker</strong>
     </p>
@@ -31,7 +31,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
     <p>
       Nach der Eröffnung sind die Fenster mit dem Eindunkeln bis um 23 Uhr beleuchtet. Alle Fenster bleiben bis zum 6. Jan. 2017 bestehen.
     </p>
-    
+
     <p>
       Der Vorstand und die GestalterInnen freuen sich, Sie bei einem abendlichen Rundgang zu sehen oder bei einem Apéro kennen zu lernen.
     </p>
@@ -43,7 +43,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
     <p>
       Quartierverein Oberdorf Werner Gerber (Präs.)
     </p>
-    
+
     <p style="text-align: right;">
       Bild: Fam. Ryser 2015
     </p>
@@ -65,7 +65,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -75,7 +75,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -85,7 +85,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -95,7 +95,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -106,7 +106,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -117,7 +117,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -127,7 +127,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -137,7 +137,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -147,7 +147,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -158,7 +158,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -169,7 +169,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -179,7 +179,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -189,7 +189,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -199,12 +199,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;***
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -215,7 +215,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -225,7 +225,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -235,7 +235,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -245,12 +245,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;***
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -261,7 +261,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -271,7 +271,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -281,7 +281,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -291,12 +291,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       ***
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -307,7 +307,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -317,7 +317,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -327,7 +327,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -337,12 +337,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -353,7 +353,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -363,7 +363,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -373,7 +373,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -383,12 +383,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -399,7 +399,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -409,7 +409,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -419,7 +419,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -429,12 +429,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -445,7 +445,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -455,7 +455,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -465,7 +465,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -475,7 +475,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -486,7 +486,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -497,7 +497,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -507,7 +507,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -517,7 +517,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -527,12 +527,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -543,7 +543,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -553,7 +553,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -563,7 +563,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -573,12 +573,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       Apéro
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -589,7 +589,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -599,7 +599,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -609,7 +609,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -619,12 +619,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       Apéro
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -635,7 +635,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -645,7 +645,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -655,7 +655,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -665,7 +665,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -676,7 +676,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -687,7 +687,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -697,7 +697,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -707,7 +707,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -717,12 +717,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -733,7 +733,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -743,7 +743,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -753,7 +753,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -763,7 +763,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -774,7 +774,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -785,7 +785,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -795,7 +795,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -805,7 +805,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -815,12 +815,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -831,7 +831,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -841,7 +841,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -851,7 +851,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -861,12 +861,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -877,7 +877,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -887,7 +887,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -897,7 +897,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -907,12 +907,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -923,7 +923,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -933,7 +933,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -943,7 +943,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -953,12 +953,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -969,7 +969,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -979,7 +979,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -989,7 +989,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -999,7 +999,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1010,7 +1010,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -1021,7 +1021,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1031,7 +1031,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1041,7 +1041,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1051,12 +1051,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -1067,7 +1067,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1077,7 +1077,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1087,7 +1087,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1097,12 +1097,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -1113,7 +1113,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1123,7 +1123,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1133,7 +1133,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1143,12 +1143,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -1159,7 +1159,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1169,7 +1169,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1179,7 +1179,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1189,12 +1189,12 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <div class="layoutArea">
@@ -1205,7 +1205,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1215,7 +1215,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1225,7 +1225,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       <div class="layoutArea">
         <div class="column">
@@ -1235,7 +1235,7 @@ guid: http://www.qv-zufikon.ch/?page_id=415
         </div>
       </div>
     </td>
-    
+
     <td>
       &nbsp;
     </td>
@@ -1247,9 +1247,9 @@ guid: http://www.qv-zufikon.ch/?page_id=415
     <p>
       *** Christchindli Markt Bremgarten
     </p>
-    
+
     <p>
-      [ngg_images source="galleries" container_ids="5" display_type="photocrati-nextgen_basic_thumbnails" override_thumbnail_settings="0" thumbnail_width="120" thumbnail_height="90" thumbnail_crop="1" images_per_page="20" number_of_columns="0" ajax_pagination="1" show_all_in_lightbox="0" use_imagebrowser_effect="0" show_slideshow_link="0" slideshow_link_text="[Show slideshow]" order_by="sortorder" order_direction="ASC" returns="included" maximum_entity_count="500"]
+      {% google_photos https://photos.app.goo.gl/5CLW4NhAAJ6bumwg6 800 %}
     </p>
   </div>
 </div>
