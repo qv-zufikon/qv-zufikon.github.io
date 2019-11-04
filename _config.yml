@@ -13,22 +13,29 @@ plugins:
   - jekyll-google-photos
 paginate: 5
 
-navigation:
- - title: Verein
-   url: /start
- - title: Programm
-   url: /programm-2
- - title: Berichte
-   url: /index.html
- - title: Gallery
-   url: /gallery
- - title: Kontakt
-   url: /kontakt
+toc:
+  - title: Verein
+    subfolderitems:
+      - page: Verein
+        url: /start
+      - page: Kontakt
+        url: /kontakt
+      - page: Statuten
+        url: /statuten
+  - title: Programm
+    subfolderitems:
+      - page: Programm 2019
+        url: /programm-2
+      - page: Programm 2018
+        url: /programm-2018
+      - page: Programm 2017
+        url: /programm
+  - title: Berichte
+    url: /index.html
+  - title: Gallery
+    url: /gallery
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   email: info@qv-zufikon.ch
 
 google_analytics: "UA-151259011-1"
