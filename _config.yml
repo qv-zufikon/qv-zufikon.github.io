@@ -24,11 +24,11 @@ toc:
         url: /statuten
   - title: Programm
     subfolderitems:
-      - page: Programm 2019
+      - page: 2019
         url: /programm-2
-      - page: Programm 2018
+      - page: 2018
         url: /programm-2018
-      - page: Programm 2017
+      - page: 2017
         url: /programm
   - title: Berichte
     url: /index.html

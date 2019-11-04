@@ -6,13 +6,31 @@ author: edewit
 layout: page
 guid: http://www.qv-zufikon.ch/?page_id=396
 ---
-<noscript class="ninja-forms-noscript-message">
-  Hinweis: Für diesen Inhalt ist JavaScript erforderlich.
-</noscript>Keine Felder gefunden.
 
-<div id="nf-form-12-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-12" aria-describedby="nf-form-errors-12" role="form">
-  <div class="nf-loading-spinner">
-  </div>
-</div>
+<form
+  action="https://formspree.io/maywgbak"
+  method="POST"
+>
+  <label>
+    Name
+    <input type="text" name="name">
+  </label>
+  <label>
+    Vorname
+    <input type="text" name="vorname">
+  </label>
 
-<!-- TODO: Move to Template File. -->
+  <label>
+    Adresse
+    <input type="text" name="adresse">
+  </label>
+
+  <label>
+    Email
+    <input type="text" name="email">
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>

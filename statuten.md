@@ -6,13 +6,7 @@ author: edewit
 layout: page
 guid: http://www.qv-zufikon.ch/?page_id=681
 ---
-<h1 style="text-align: center;">
-  Quartierverein Oberdorf Zufikon<br /> Statuten
-</h1>
-
-<h1 style="text-align: center;">
-  Genehmigt an GV<br /> vom 5. März 2016
-</h1>
+### Genehmigt an GV vom 5. März 2016
 
 ### NAME UND ZWECK
 
@@ -163,8 +157,8 @@ Einnahmen und Ausgaben werden von der Generalversammlung festgesetzt. Das Rechnu
 **16.1** Die Einnahmen bestehen aus:
 
   * Jahresbeiträgen der Mitglieder diese werden jährlich durch die Generalversammlung festgelegt.
-  
-    Sie betragen jedoch höchstens:</p> 
+
+    Sie betragen jedoch höchstens:</p>
       * CHF 50.00 für Familienmitglieder
       * CHF 30.00 für Einzelmitglieder
 
@@ -173,18 +167,18 @@ Einnahmen und Ausgaben werden von der Generalversammlung festgesetzt. Das Rechnu
 </p>
 
   * Reinerträgen aus Anlässen
-  
+
     sofern die Mehrheit der Mitglieder dies beschlossen hat.
   * Gönnerbeiträgen
 
 **16.2** Die Ausgaben bestehen aus betätigtem Jahresbudget. Die Ausgabenkompetenz des Vor-
-  
+
 standes wird jährlich an der Generalversammlung festgelegt.
 
 **16.3** Für die Verpflichtungen des Vereins haftet ausschliesslich das Vereinsvermögen. Eine per-
-  
+
 sönliche finanzielle Haftung der Mitglieder ist ausgeschlossen, ausgenommen bei strafba-
-  
+
 ren Handlungen.
 
 ### V. STATUTENREVISION
@@ -208,17 +202,17 @@ Die vorliegenden Statuten wurden von der Generalversammlung vom 5. März 2016 ge
     <td style="width: 262px;border:0">
       Der Präsident
     </td>
-    
+
     <td style="width: 251px;border:0">
       Die Aktuarin
     </td>
   </tr>
-  
+
   <tr>
     <td style="width: 262px;border:0">
       W. Gerber
     </td>
-    
+
     <td style="width: 251px;border:0">
       D. Felder
     </td>

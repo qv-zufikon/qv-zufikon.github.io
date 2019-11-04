@@ -6,16 +6,10 @@ author: edewit
 layout: page
 guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
 ---
-<div class="page" title="Page 1">
-  <div class="page" title="Page 1">
-    <div class="layoutArea">
-      <div class="column">
-        <p>
-          Liebe Zufikerinnen und Zufiker<a href="https://quartierverein-edewit.rhcloud.com/wp-content/uploads/2015/12/Akermann-Adventsfenster.png" rel="attachment wp-att-192"><img class="size-medium wp-image-192 alignright" src="https://quartierverein-edewit.rhcloud.com/wp-content/uploads/2015/12/Akermann-Adventsfenster-261x300.png" alt="Akermann Adventsfenster" width="261" height="300" srcset="https://my-wordpress-site-qv-zufikon.192.168.42.21.nip.io/wp-content/uploads/2015/12/Akermann-Adventsfenster-261x300.png 261w, https://my-wordpress-site-qv-zufikon.192.168.42.21.nip.io/wp-content/uploads/2015/12/Akermann-Adventsfenster.png 264w" sizes="(max-width: 261px) 100vw, 261px" /></a>
-        </p>
-      </div>
-    </div>
-    
+  <p>
+    Liebe Zufikerinnen und Zufiker<a href="/wp-content/uploads/2015/12/Akermann-Adventsfenster.png" rel="attachment wp-att-192"><img class="size-medium wp-image-192 alignright" src="/wp-content/uploads/2015/12/Akermann-Adventsfenster-261x300.png" alt="Akermann Adventsfenster" width="261" height="300"/></a>
+  </p>
+
     <div class="layoutArea">
       <div class="column">
         <p>
@@ -23,7 +17,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
         </p>
       </div>
     </div>
-    
+
     <div class="layoutArea">
       <div class="column">
         <p>
@@ -31,7 +25,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
         </p>
       </div>
     </div>
-    
+
     <div class="layoutArea">
       <div class="column">
         <p>
@@ -39,19 +33,19 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
         </p>
       </div>
     </div>
-    
+
     <div class="layoutArea">
       <div class="column">
         <p>
           Der Vorstand und die GestalterInnen freuen sich, Sie bei einem abendlichen Rundgang zu sehen oder bei einem Apéro kennen zu lernen.
         </p>
-        
+
         <p>
           Quartierverein Oberdorf Werner Gerber (Präs.)
         </p>
       </div>
     </div>
-    
+
     <table style="height: 1596px;" width="601">
       <colgroup> <col /> <col /> </colgroup> <tr>
         <td>
@@ -63,7 +57,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -73,7 +67,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -83,7 +77,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -94,7 +88,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
           </div>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -105,7 +99,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -115,7 +109,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -125,7 +119,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -136,7 +130,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
           </div>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -147,7 +141,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -157,7 +151,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -167,11 +161,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -182,7 +176,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -192,7 +186,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -202,12 +196,12 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
            ***
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -218,7 +212,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -228,7 +222,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -238,12 +232,12 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           ***
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -254,7 +248,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -264,7 +258,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -274,12 +268,12 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           ***
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -290,7 +284,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -300,7 +294,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -310,12 +304,12 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           ***
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -326,7 +320,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -336,7 +330,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -346,11 +340,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -361,7 +355,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -371,7 +365,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -381,7 +375,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -392,7 +386,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
           </div>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -403,7 +397,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -413,7 +407,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -423,11 +417,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -438,7 +432,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -448,7 +442,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -458,11 +452,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -473,7 +467,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -483,7 +477,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -493,11 +487,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -508,7 +502,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -518,7 +512,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -528,7 +522,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -539,7 +533,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
           </div>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -550,7 +544,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -560,7 +554,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -570,11 +564,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -585,7 +579,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -595,7 +589,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -605,7 +599,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -616,7 +610,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
           </div>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -627,7 +621,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -637,7 +631,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -647,11 +641,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -662,7 +656,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -672,7 +666,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -682,11 +676,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -697,7 +691,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -707,7 +701,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -717,11 +711,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -732,7 +726,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -742,7 +736,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -752,11 +746,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -767,7 +761,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -777,7 +771,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -787,7 +781,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -798,7 +792,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
           </div>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -809,7 +803,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -819,7 +813,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -829,11 +823,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -844,7 +838,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -854,7 +848,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -864,11 +858,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -879,7 +873,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -889,7 +883,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -899,11 +893,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -914,7 +908,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -924,7 +918,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -934,11 +928,11 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
-      
+
       <tr>
         <td>
           <div class="layoutArea">
@@ -949,7 +943,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -959,7 +953,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
           <div class="layoutArea">
             <div class="column">
@@ -969,12 +963,12 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
             </div>
           </div>
         </td>
-        
+
         <td>
         </td>
       </tr>
     </table>
-    
+
     <div class="layoutArea">
       <div class="column">
         <p>
@@ -982,7 +976,7 @@ guid: https://quartierverein-edewit.rhcloud.com/?page_id=190
         </p>
       </div>
     </div>
-    
+
     <div class="section">
       <div class="layoutArea">
         <div class="column">
