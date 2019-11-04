@@ -15,4 +15,4 @@ layout: page
 
 #### Protokoll: Gabriela Hufschmid
 
-[Beitreten zum Quartierverein Oberdorf Zufikon](/anmeldung/)
+[Beitreten zum Quartierverein Oberdorf Zufikon](/anmeldung)

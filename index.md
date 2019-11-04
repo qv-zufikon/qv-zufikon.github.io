@@ -9,7 +9,7 @@ guid: http://quartierverein-edewit.rhcloud.com/?page_id=144
 ## Quartierverein Oberdorf Zufikon
 
 Seine Mitglieder sind Familien und Einzelpersonen die geselliges Beisammensein schätzen, Freundschaften pflegen und gerne an Wanderungen und Besichtigungen teilnehmen, oder sich einfach in einer Dorfgemeinschaft wohl fühlen möchten.
-  
+
 Aber auch “ernstere” Tätigkeiten stehen in unseren Statuten
 
   * Wahrung und Förderung der allgemeinen Interessen des Quartiers gegenüber Behörden und Privaten.
@@ -17,5 +17,7 @@ Aber auch “ernstere” Tätigkeiten stehen in unseren Statuten
   * Erhaltung und Instandstellung der Kulturgüter in unserem Quartier gehören ebenfalls zu unseren Aufgaben.
 
 Wir organisieren: Wanderungen, Besichtigungen, gesellige Anlässe, Adventsfenster
-  
+
 und noch vieles mehr…
+
+[Beitreten zum Quartierverein Oberdorf Zufikon](/anmeldung)
