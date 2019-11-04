@@ -3,7 +3,7 @@ description: Familien und Einzelpersonen die geselliges Beisammensein schätzen,
 
 url: http://www.qv-zufikon.ch
 baseurl: ""
-# paginate_path: "blog/page:num/"
+paginate_path: "berichte/page:num/"
 # permalink: blog/:title/
 
 markdown: kramdown
@@ -31,7 +31,7 @@ toc:
       - page: 2017
         url: /programm
   - title: Berichte
-    url: /index.html
+    url: /berichte/
   - title: Gallery
     url: /gallery
 
