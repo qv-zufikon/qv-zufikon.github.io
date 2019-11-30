@@ -93,6 +93,19 @@ guid: http://www.qv-zufikon.ch/?page_id=1359
 
   <tr>
     <td>
+      So. 01.12
+    </td>
+
+    <td>
+      <a href="/adventsfenster-2019.html">
+        Adventsfenster Oberdorf
+      </a>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
       Do 02.01.2020
     </td>
 
