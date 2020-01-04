@@ -7,6 +7,9 @@ layout: page
 guid: http://www.qv-zufikon.ch/?page_id=336
 ---
 
+## Weihnachtsfenster 2019 - 2020
+{% google_photos https://photos.app.goo.gl/J5fDGxh13dSm7sMH9 660 %}
+
 ## Besichtigung BDB
 {% google_photos https://photos.app.goo.gl/ZA3D3Wvzf9yBRArm7 660 %}
 
