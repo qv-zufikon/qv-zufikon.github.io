@@ -55,7 +55,7 @@ guid: http://www.qv-zufikon.ch/?page_id=1359
     </td>
 
     <td>
-      <a href="/weihnachtsfenster_2019-2020/">Besichtigung Kraftwerk Linth-Limmern</a>
+      Besichtigung Kraftwerk Linth-Limmern
     </td>
   </tr>
 
@@ -110,7 +110,9 @@ guid: http://www.qv-zufikon.ch/?page_id=1359
     </td>
 
     <td>
-      Neujahrsapéro, Dachboden Pfarreizentrum
+      <a href="/weihnachtsfenster_2019-2020/">
+        Neujahrsapéro, Dachboden Pfarreizentrum
+      </a>
     </td>
   </tr>
 
