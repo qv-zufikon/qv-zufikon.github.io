@@ -55,7 +55,7 @@ guid: http://www.qv-zufikon.ch/?page_id=1359
     </td>
 
     <td>
-      Besichtigung Kraftwerk Linth-Limmern
+      <a href="/weihnachtsfenster_2019-2020/">Besichtigung Kraftwerk Linth-Limmern</a>
     </td>
   </tr>
 
