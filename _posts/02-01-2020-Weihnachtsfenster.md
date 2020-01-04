@@ -1,5 +1,6 @@
 ---
 title: Weihnachtsfenster 2019 - 2020
+permalink: /weihnachtsfenster_2019-2020/
 layout: post
 ---
 
