@@ -110,7 +110,7 @@ guid: http://www.qv-zufikon.ch/?page_id=1359
     </td>
 
     <td>
-      <a href="/weihnachtsfenster_2019-2020/">
+      <a href="/weihnachtsfenster_2019-2020">
         Neujahrsapéro, Dachboden Pfarreizentrum
       </a>
     </td>
