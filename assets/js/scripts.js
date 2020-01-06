@@ -15,5 +15,5 @@ $( document ).ready(function() {
 
 });
 
-
-showSlides = (index) => location.href = googlePhotos.urls[index];
+const images = $('.slideImgs');
+showSlides = (index) => location.href = $(images.get(index)).children('img').attr('src');
