@@ -16,4 +16,7 @@ $( document ).ready(function() {
 });
 
 const images = $('.slideImgs');
-showSlides = (index) => location.href = $(images.get(index)).children('img').attr('src');
+for (i = 0; i < images.length; i++) {
+  $(images[i]).attr("onclick","showImage(this)");
+}
+showImage = (element) => location.href = $(element).children('img').attr('src');
