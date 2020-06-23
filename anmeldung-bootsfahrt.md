@@ -1,5 +1,5 @@
 ---
-title: Anmeldung Bootsfahrt / Velo tour
+title: Anmeldung Bootsfahrt / Velotour
 date: 2020-08-23
 author: edewit
 layout: page
@@ -8,7 +8,7 @@ layout: page
 <form action="https://formspree.io/xzbjvqdy" method="POST">
   <div>
     <label>
-      Name
+      Name:
     </label>
     <div>
       <input type="text" name="name">

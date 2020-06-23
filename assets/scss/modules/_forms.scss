@@ -2,8 +2,6 @@
 FORM STYLING
 ***************/
 
-$input-line-height: 18px;
-
 form > div {
   clear: both;
   overflow: hidden;
@@ -36,7 +34,7 @@ input[type=text],input[type=email],input[type=phone],input[type=password],input[
   padding:5px;
   outline:none;
   border: none;
-  height: $input-line-height;
+  height: $line-height;
   width:300px;
   margin-bottom: .5rem;
 
@@ -49,7 +47,7 @@ input[type=text],input[type=email],input[type=phone],input[type=password],input[
   }
 }
 textarea {
-  height:$input-line-height*3;
+  height:$line-height*3;
 }
 
 form {
