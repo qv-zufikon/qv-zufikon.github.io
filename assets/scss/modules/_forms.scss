@@ -2,61 +2,117 @@
 FORM STYLING
 ***************/
 
-label {
-	display:block;
-	margin-bottom:5px;
+$input-line-height: 18px;
+
+form > div {
+  clear: both;
+  overflow: hidden;
+  padding: 1px;
+  margin: 0 0 10px 0;
 }
+form > div > fieldset > div > div {
+  margin: 0 0 5px 0;
+}
+form > div > label, legend {
+  width: 25%;
+  float: left;
+  padding-right: 10px;
+}
+form > div > div,
+form > div > fieldset > div {
+  width: 75%;
+  float: right;
+}
+form > div > fieldset label {
+  font-size: 90%;
+}
+fieldset {
+  border: 0;
+  padding: 0;
+}
+
 input[type=text],input[type=email],input[type=phone],input[type=password],input[type=number],input[type=search], textarea {
-	background: darken(white, 10%);
-	padding:5px;
-	outline:none;
-	border: none;
-	height: $line-height;
-	width:300px;
-	margin-bottom: .5rem;
+  background: darken(white, 10%);
+  padding:5px;
+  outline:none;
+  border: none;
+  height: $input-line-height;
+  width:300px;
+  margin-bottom: .5rem;
 
-	&:focus {
-		border: 1px solid $primary-color;
-	}
+  &:focus {
+    border: 1px solid $primary-color;
+  }
 
-	&.full-width {
-		width:100%;
-	}
+  &.full-width {
+    width:100%;
+  }
 }
 textarea {
-	height:$line-height*3;
+  height:$input-line-height*3;
 }
 
 form {
-	margin-bottom:$padding;
+  margin-bottom:$padding;
 
-	// Wrap each form input/element in a field div
-	.field {
-		margin-bottom:$padding/2;
-	}
+  // Wrap each form input/element in a field div
+  .field {
+    margin-bottom:$padding/2;
+  }
 
-	// Notes go under the input fields
-	.note {
-		margin-top:5px;
-		color:$subtle-color;
-	}
+  // Notes go under the input fields
+  .note {
+    margin-top:5px;
+    color:$subtle-color;
+  }
 
-	// Required label
-	.req {
-		font-style: italic;
-	}
+  // Required label
+  .req {
+    font-style: italic;
+  }
 
-	// Validation, add error class to the item div
-	.error {
+  // Validation, add error class to the item div
+  .error {
 
-		// Validation reason
-		.reason {
-			margin-top:5px;
-			color:$bad-color;
-		}
+    // Validation reason
+    .reason {
+      margin-top:5px;
+      color:$bad-color;
+    }
 
-		input[type=text],input[type=email],input[type=phone],input[type=password],input[type=number],input[type=search], textarea{
-			border-color:$bad-color;
-		}
-	}
+    input[type=text],input[type=email],input[type=phone],input[type=password],input[type=number],input[type=search], textarea{
+      border-color:$bad-color;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  form > div {
+    margin: 0 0 15px 0;
+  }
+  form > div > label,
+  legend {
+    width: 100%;
+    float: none;
+    margin: 0 0 5px 0;
+  }
+  form > div > div,
+  form > div > fieldset > div {
+    width: 100%;
+    float: none;
+  }
+  input[type=text],
+  input[type=email],
+  input[type=url],
+  input[type=password],
+  textarea,
+  select {
+    width: 100%;
+  }
+  }
+  @media (min-width: 1200px) {
+  form > div > label,
+  legend {
+    text-align: right;
+  }
 }
