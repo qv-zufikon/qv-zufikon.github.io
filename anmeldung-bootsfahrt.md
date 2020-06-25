@@ -5,7 +5,7 @@ author: edewit
 layout: page
 ---
 
-### Reussabfahrt Details:
+#### Reussabfahrt Details:
 Versammlung Bootsfahrer: am Samstag 29. August um 9.45 Uhr beim Hexenturm in Bremgarten.
 Um 10 Uhr wassern wir ein mit Stöckli Sport Boswil.
 
@@ -25,7 +25,7 @@ wasserdichte Tonne von Stöckli Sport deponiert werden.
 
 **Kosten:** 45,- CHF Bootsfahrt + Busfahrt ab 4,- CHF / wenn Halbtax bei der Anmeldung melden.
 
-### Velotour Details:
+#### Velotour Details:
 Versammlung Velofahrer: am Samstag 29. August 10.30 Uhr beim Parkplatz an der
 Aëttigüpfstrasse. Die Tour wird von Röbi Giacomelli geleitet und führt entspannt über die hügelige
 Landschaft von Rohrdorf, Stetten bis nach Mellingen zur ʺSchweizer Familieʺ Feuerstelle wo wir
@@ -34,23 +34,21 @@ Rückfahrt ist ja fast gleich. Während der Fahrt hat man regelmässig Aussicht 
 
 **Kleidung Tipps:** dem Wetter angepasst, Sonnenschutz, falls vorhanden Velohelm.
 
-### Details für Alle:
+#### Details für Alle:
 Esswaren, Getränke, und allenfalls Klappstühle können am Vorabend oder am Samstag bis zirka 9
 Uhr bei mir deponiert werden: Adinda, Aettigüpfstrasse 20. So könnt ihr unbekümmert an einem
 der beiden Anlässe teilnehmen. Die feinen Sachen werden dann dort wo wir sie brauchen
 hingezaubert.
 
-### Gesucht Chef du Feu:
+#### Gesucht Chef du Feu:
 Einer oder mehrere Freiwillige, welche die Feuerstelle im Voraus besetzen, anfeuern und parat
 machen für unsere 2 aktiven Gruppen. Es handelt sich hier um eine öffentliche Feuerstelle.
 
-### Anmeldung noch vor den Sommerferien bis am 5. Juli:
+#### Anmeldung noch vor den Sommerferien bis am 5. Juli:
 Den Anlass findet auch bei Bewölkung oder sanftem Regen statt. Nur bei Gewitter oder
 Dauerregen werden wir stornieren. Die Anmeldung für die Bootsfahrt ist verbindlich.
 
-<video width="500px" height="350px" autobuffer="autobuffer" autoplay="autoplay" loop="loop" controls="controls">
-  <source src='assets/reuss-anim.mpg' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eb4dAorA7kQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <form action="https://formspree.io/xzbjvqdy" method="POST">
   <div>
