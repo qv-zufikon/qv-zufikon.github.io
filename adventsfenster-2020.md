@@ -1,5 +1,5 @@
 ---
-title: Adventsfenster 2019
+title: Adventsfenster 2020
 date: 2018-11-30T17:14:10+00:00
 author: edewit
 layout: page
