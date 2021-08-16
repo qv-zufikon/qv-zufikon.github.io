@@ -63,8 +63,4 @@ Insbesondere:
 unter https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemienpandemien/aktuelle-ausbrueche-epidemien/novel-cov.html
 
 ## Anmeldung
-bis spätestens Freitag, 20.8.2021 bitte an Frau Adinda de Wit per Telefon 056 535 98 00 /
- 076 677 153 57 oder per email adinda.dejong@gmail.com richten.
-Bitte geben sie zur Erfassung der Kontaktdaten folgendes an:
-
-Name, Vorname, Telefon Nr.
+Wie immer
