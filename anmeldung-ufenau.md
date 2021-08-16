@@ -1,11 +1,9 @@
 ---
-title: Anmeldung zur Besuch der historischen Insel Uf(e)nau“
+title: Besuch der historischen Insel Uf(e)nau
 date: 2020-09-15
 author: edewit
 layout: page
 ---
-
-# Besuch der historischen Insel Uf(e)nau
 
 ![Insel Uf(e)nau](https://image.jimcdn.com/app/cms/image/transf/dimension=1280x10000:format=jpg/path/s1ed49f6d71837520/image/i292f4239d971b7df/version/1601020161/image.jpg
  "Insel Uf(e)nau")
