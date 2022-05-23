@@ -7,10 +7,13 @@ layout: page
 
 ### Wann
 * Dienstag, 28. Juni 2022, 10.00 Uhr
+
 ### Wo
 * Tofurei Engel, Allmend 3, 8967 Widen
+
 ### Anreise
 * Wie gewohnt bitten wir die Teilnehmer Fahrgemeinschaften zu bilden
+
 ### Programm
 * Besichtigung der Tofu-Produktion inkl. Degustation
 
