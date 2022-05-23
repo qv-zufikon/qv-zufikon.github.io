@@ -24,6 +24,8 @@ toc:
         url: /statuten
   - title: Programm
     subfolderitems:
+      - page: 2022
+        url: /programm-2022
       - page: 2021
         url: /programm-2021
       - page: 2020
@@ -32,8 +34,6 @@ toc:
         url: /programm-2
       - page: 2018
         url: /programm-2018
-      - page: 2017
-        url: /programm
   - title: Berichte
     url: /berichte/
   - title: Gallery
