@@ -12,4 +12,4 @@ Sonntag | 21. August 2022 | Ausflug Bielersee Region
 Samstag | 15.Oktober 2022 | 1. QVOZ Jassmeisterschaft / Spieleabend
 Samstag | 5. November 2022 | Fondueanlass
 Montag | 2. Januar 2023 | Adventsfenster Neujahrsapéro
-Samstag | 4. März 2023 | GV
+Freitag | 3. März 2023 | GV
