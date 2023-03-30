@@ -24,7 +24,7 @@ toc:
         url: /statuten
   - title: Programm
     subfolderitems:
-    - page: 2023
+      - page: 2023
         url: /programm-2023
       - page: 2022
         url: /programm-2022
