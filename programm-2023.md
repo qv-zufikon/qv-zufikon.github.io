@@ -14,4 +14,4 @@ Samstag | 18. November 2023 | Fondueabend
 Dienstag | 2. Januar 2024 | Adventsfenster Rundgang / Neujahrsapéro
 Freitag | 26. Januar 2024 | Schneeschuhtour
 Freitag | 23. Februar 2024 | Schneeschuhtour Verschiebedatum
-|| März / Juni 2024 | GV
+Freitag | 15. März 2024 | GV
