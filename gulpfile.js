@@ -1,9 +1,9 @@
 var gulp        = require('gulp');
 var browserSync = require('browser-sync');
-var sass        = require('gulp-sass');
+var sass        = require('gulp-dart-sass');
 var prefix      = require('gulp-autoprefixer');
 var cp          = require('child_process');
-var cssnano 		= require('gulp-cssnano');
+var cssnano     = require('gulp-cssnano');
 
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 var messages = {
