@@ -5,7 +5,7 @@ layout: page
 
 Tag|Datum|Anlass
 ---|-----|------
-Samstag | 29. April 2023 | Wagi Museum Schlieren
+Samstag | 29. April 2023 | [Wagi Museum Schlieren](/wagimuseum-2023)
 Sonntag | 11. Juni 2023 | Wanderung Sattel-Hochstuckli Rundweg
 Mittwoch | 30. August 2023 | ALA Lenzburg (Nachmittag)
 Samstag | 23. September 2023 | Pilzführung Zufikon / Bremgarten
