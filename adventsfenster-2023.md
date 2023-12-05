@@ -1,5 +1,5 @@
 ---
-title: Adventsfenster 2022
+title: Adventsfenster 2023
 author: edewit
 layout: page
 ---
