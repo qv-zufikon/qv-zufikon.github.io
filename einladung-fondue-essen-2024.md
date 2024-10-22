@@ -1,6 +1,6 @@
 ---
 title: Einladung zum Fondue-Essen im Pfarreizentrum
-date: 2024-22-10
+date: 2024-10-22
 author: edewit
 layout: page
 ---
