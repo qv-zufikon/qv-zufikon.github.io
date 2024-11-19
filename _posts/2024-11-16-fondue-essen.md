@@ -2,7 +2,8 @@
 title: Fondue-Essen
 date: 2024-11-16
 author: edewit
-layout: page
+permalink: /fondue-essen-2024/
+layout: post
 ---
 
 ## Bilder
