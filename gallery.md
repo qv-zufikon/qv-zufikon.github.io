@@ -6,6 +6,7 @@ author: edewit
 layout: page
 guid: http://www.qv-zufikon.ch/?page_id=336
 album_urls:
+  - https://photos.app.goo.gl/YokmaVnGwfFcufZx7
   - https://photos.app.goo.gl/bYnXbzrrbNqnLrgKA
   - https://photos.app.goo.gl/J5fDGxh13dSm7sMH9
   - https://photos.app.goo.gl/ZA3D3Wvzf9yBRArm7
