@@ -18,7 +18,7 @@ Quartierverein Oberdorf Thomas Hufschmid (Präs.)
 
 | Dez | Name | Vorname | Adresse | Bem. |
 | --- | --- | --- | --- | ---
-|1.| Knopf | Michelle | Stiefelstrasse 11 | Getränk + Überraschung |
+|1.| Knopf | Familie | Stiefelstrasse 11 | Getränk + Überraschung |
 |2.| Schule | | Altes Gemeindehaus | Getränk + Lebkuchen |
 |3.| Schambron | Heidi und Toni | Haldenmätteli 13 ||
 |4.| Cimma | Alexandra | Algierstrasse 2 ||
