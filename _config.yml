@@ -22,8 +22,12 @@ toc:
         url: /kontakt
       - page: Statuten
         url: /statuten
+      - page: Bankverbindung
+        url: /statuten
   - title: Programm
     subfolderitems:
+      - page: 2025
+        url: /programm-2025
       - page: 2024
         url: /programm-2024
       - page: 2023

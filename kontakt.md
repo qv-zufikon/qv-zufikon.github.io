@@ -9,9 +9,7 @@ layout: page
 
 #### Vizepräsidentin: Alexandra Cimma
 
-#### Adinda de Wit - de Jong
-
-#### Kassier: Verena Hunziker
+#### Kassier: René Alder
 
 #### Protokoll: Gabriela Hufschmid
 
