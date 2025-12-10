@@ -30,8 +30,8 @@ Quartierverein Oberdorf Thomas Hufschmid (Präs.)
 | 9. | Tagi Schlaufuchs | Nikolina Grossert | Schulstrasse 24 | |
 | 10. | Barro | Familie | Breitenstrasse 7 | |
 | 11. | Roseng | Familie | Maihölzlistrasse 30a | |
-| 12. | Furrer | Familie | Maihölzlistrasse 34 | |
-| 13. | Kath. Kirchgem. Pfarreizentrum | Claudia Pedolin, Daniela Gamper | Bachstrasse 20 | Apéro mit Jugendchor |
+| 12. | Kath. Kirchgem. Pfarreizentrum | Claudia Pedolin, Daniela Gamper | Bachstrasse 20 | Apéro mit Jugendchor |
+| 13. | Furrer | Familie | Maihölzlistrasse 34 | |
 | 14. | Agustoni | Familie | Haldenmätteli 12 | |
 | 15. | Hufschmid | Familie | Schürmattstrasse 6 | |
 | 16. | Müller | Bernadette | Schürmattstrasse 25 | |
